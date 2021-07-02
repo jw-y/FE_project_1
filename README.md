@@ -1,8 +1,9 @@
 # Financial Engineering Project 1
 
 Project 1 for *Financial Engineering for Data Scientists* course, Spring 2021, Seoul National University.
-Used Markowitz model to find an efficient frontier and an optimal portfolio.
-It is implemented in Python. Used S&P500 companies. Need Gurobi library to run.
+* Used Markowitz model to find an efficient frontier and an optimal portfolio, implemented in Python
+* Used S&P500 companies
+* Need Gurobi library to run
 
 ## How to run
 
@@ -17,4 +18,7 @@ It is implemented in Python. Used S&P500 companies. Need Gurobi library to run.
     --no_short limit short
     --no_gurobi do not use gurobi
     -n N Number of companies (default: 30)
+
+For more details, reference 양정우hw101.pdf
+
 
