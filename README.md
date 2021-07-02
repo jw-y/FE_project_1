@@ -9,15 +9,17 @@ Project 1 for *Financial Engineering for Data Scientists* course, Spring 2021, S
 
     python 양정우hw101.py
 
+
     python 양정우hw101.py --help
-    usage: 양정우hw101.py [-h] [--no_short] [--no_gurobi] [-n N]
-    4
-    Calculate Modern Portfolio Theory
-    optional arguments:
-    -h, --help show this help message and exit
-    --no_short limit short
-    --no_gurobi do not use gurobi
-    -n N Number of companies (default: 30)
+        usage: 양정우hw101.py [-h] [--no_short] [--no_gurobi] [-n N]
+
+        Calculate Modern Portfolio Theory
+
+        optional arguments:
+          -h, --help   show this help message and exit
+          --no_short   limit short
+          --no_gurobi  do not use gurobi
+          -n N         Number of companies (default: 30)
 
 For more details, reference 양정우hw101.pdf
 
